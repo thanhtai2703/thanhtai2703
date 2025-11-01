@@ -14,10 +14,22 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-      </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
