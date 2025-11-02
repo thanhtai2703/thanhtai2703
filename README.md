@@ -52,7 +52,7 @@
 
 <h2 align="left">Coding Activity</h2>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhtai2703&theme=github-dark-dimmed&custom_title=Superkid%20Activity%20Graph&hide_border=true)](https://github.com/loihnt05/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhtai2703&theme=dracula)](https://github.com/thanhtai2703/github-readme-activity-graph)
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
