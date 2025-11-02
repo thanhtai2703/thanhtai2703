@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! Tai Truong</h1>
 <h3 align="left">I do DevOps Engineering things</h3>
 
-<a href="https://github.com/thanhtai2703/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtai2703](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
