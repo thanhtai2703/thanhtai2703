@@ -2,7 +2,7 @@
 <h3 align="left">I do DevOps Engineering things</h3>
 
 <a href="https://github.com/thanhtai2703/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtai2703(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtai2703&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtai2703&layout=compact&langs_count=8&card_width=320" />
