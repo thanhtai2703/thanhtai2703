@@ -1,12 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Hello there!I'm Tai Truong</h1>
 <h3 align="left">I do DevOps Engineering things</h3>
 
-<a href="https://github.com/thanhtai2703/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtai2703&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtai2703&layout=compact&langs_count=8&card_width=320" />
-</a>
+<a href="https://stats.hyo.dev/stats/thanhtai2703"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=thanhtai2703" width="600" /></a>
+<a href="https://stats.hyo.dev/stats/thanhtai2703"><img src="https://stats.hyo.dev/api/github-trophies?login=thanhtai2703" width="600" /></a>
+
 <br>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
@@ -47,7 +44,6 @@
 <h2 align="left">Coding Activity</h2>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhtai2703&theme=dracula)](https://github.com/thanhtai2703/github-readme-activity-graph)
-
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
