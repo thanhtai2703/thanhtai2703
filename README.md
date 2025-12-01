@@ -2,8 +2,6 @@
 <h3 align="left">I do DevOps Engineering things</h3>
 
 <a href="https://stats.hyo.dev/stats/thanhtai2703"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=thanhtai2703" width="600" /></a>
-<a href="https://stats.hyo.dev/stats/thanhtai2703"><img src="https://stats.hyo.dev/api/github-trophies?login=thanhtai2703" width="600" /></a>
-
 <br>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
