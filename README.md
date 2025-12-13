@@ -1,8 +1,10 @@
-<h1 align="left" id="macropower-title">:wave: Hello there!I'm Tai Truong</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tai Truong </h1>
 <h3 align="left">I do DevOps Engineering things</h3>
 
-<a href="https://stats.hyo.dev/stats/thanhtai2703"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=thanhtai2703" width="600" /></a>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhtai2703&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="thanhtai2703's Stats" width="527"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai2703&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="thanhtai2703's Top Languages" width="400"/>
+</p
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
