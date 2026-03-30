@@ -1,56 +1,39 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Tai Truong </h1>
 <h3 align="left">I do DevOps Engineering things</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtai2703&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="thanhtai2703's Stats" width="527"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai2703&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="thanhtai2703's Top Languages" width="400"/>
-</p
+<p align="center" style="text-align: center;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thanhtai2703&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" width="500"/>
+</p>
+<p align="center" style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtai2703&theme=dracula&hide_border=true" alt="thanhtai2703's Streak" width="500"/>
+</p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+## 🛠️ Favorite Tech
 > Tools, languages, and other things that I like to work with.
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 <h2 align="left">Coding Activity</h2>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhtai2703&theme=dracula)](https://github.com/thanhtai2703/github-readme-activity-graph)
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+## 📬 Contact
+<p align="left">
+  <a href="mailto:thanhtai05.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/thanhtai2703">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tai-thanh-4751a235a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/taideptraibodoiqua">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
