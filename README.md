@@ -94,14 +94,14 @@ My current focus is building and improving infrastructure using:
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api?username=thanhtai2703&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&rank_icon=github"
-alt="Tai's GitHub Stats"
+src="https://github-stats-extended.vercel.app/api?username=thanhtai2703&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
+alt="Tai Truong's GitHub Stats"
 />
 
 <img
 width="49%"
 src="https://streak-stats.demolab.com?user=thanhtai2703&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9"
-alt="Tai's GitHub Streak"
+alt="Tai Truong's GitHub Streak"
 />
 
 </div>
@@ -111,9 +111,15 @@ alt="Tai's GitHub Streak"
 <div align="center">
 
 <img
-width="42%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtai2703&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=8"
-alt="Top Languages"
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhtai2703&theme=dracula"
+alt="Top Languages by Repository"
+/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhtai2703&theme=dracula"
+alt="Top Languages by Commit"
 />
 
 </div>
@@ -124,4 +130,11 @@ alt="Top Languages"
 
 <div align="center">
 
-[![Tai's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhtai2703\&bg_color=0D1117\&color=BD93F9\&line=FF79C6\&point=F8F8F2\&area=true\&area_co)]()
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtai2703&theme=dracula"
+alt="Tai Truong's GitHub Contribution Activity"
+/>
+
+</div>
+
